@@ -1,0 +1,11 @@
+.sticky-nav{
+	position: sticky;
+	top: 0;
+}
+
+.linking Link{
+	align-items: center;
+	top: auto;
+	justify-content: center;
+	color: black;
+}
